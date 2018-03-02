@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F2F9BD3F-88AF-4F8C-916C-5E3D7242A9B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StoreApp/ProductClasses/Dairy.cs">
+    <Files>
+      <File FileName="StoreApp/Program.cs" Line="13" Column="53" />
+      <File FileName="StoreApp/ProductClasses/Product.cs" Line="16" Column="46" />
+      <File FileName="StoreApp/ProductClasses/Banana.cs" Line="8" Column="25" />
+      <File FileName="StoreApp/ProductClasses/CowMilk.cs" Line="3" Column="2" />
+      <File FileName="StoreApp/Workers/Employee.cs" Line="46" Column="8" />
+      <File FileName="StoreApp/ShoppingCart.cs" Line="7" Column="52" />
+      <File FileName="StoreApp/ProductClasses/Produce.cs" Line="10" Column="5" />
+      <File FileName="StoreApp/Address.cs" Line="11" Column="1" />
+      <File FileName="StoreApp/Person.cs" Line="16" Column="22" />
+      <File FileName="StoreApp/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="StoreApp/Workers/Cashier.cs" Line="6" Column="54" />
+      <File FileName="StoreApp/Workers/ShiftLead.cs" Line="8" Column="6" />
+      <File FileName="StoreApp/Workers/Supervisor.cs" Line="8" Column="6" />
+      <File FileName="StoreApp/ProductClasses/Apple.cs" Line="12" Column="1" />
+      <File FileName="StoreApp/ProductClasses/Dairy.cs" Line="7" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Eddie/projects/StoreApp/StoreApp/StoreApp/Employee.cs" relfile="StoreApp/Employee.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StoreApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

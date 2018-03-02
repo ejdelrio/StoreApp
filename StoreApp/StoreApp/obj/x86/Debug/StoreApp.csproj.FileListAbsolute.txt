@@ -1,0 +1,5 @@
+/Users/Eddie/projects/StoreApp/StoreApp/StoreApp/bin/Debug/StoreApp.exe
+/Users/Eddie/projects/StoreApp/StoreApp/StoreApp/bin/Debug/StoreApp.pdb
+/Users/Eddie/projects/StoreApp/StoreApp/StoreApp/obj/x86/Debug/StoreApp.csproj.CoreCompileInputs.cache
+/Users/Eddie/projects/StoreApp/StoreApp/StoreApp/obj/x86/Debug/StoreApp.exe
+/Users/Eddie/projects/StoreApp/StoreApp/StoreApp/obj/x86/Debug/StoreApp.pdb
