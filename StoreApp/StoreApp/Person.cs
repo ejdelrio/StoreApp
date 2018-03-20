@@ -1,7 +1,7 @@
 ﻿using System;
 namespace StoreApp
 {
-  public class Person
+  public class Person : Human
   {
     public string firstName;
     public string lastName;
@@ -9,7 +9,7 @@ namespace StoreApp
     DateTime DOB;
     Address homeAddress;
 
-    public Person(string first, string last, int age) 
+    public Person(string first, string last, int age)
     {
       firstName = first;
       lastName = last;
